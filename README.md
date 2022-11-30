@@ -1,4 +1,4 @@
-# Enlightened-Industrial-Revolution
+# Enlightened-Industrial-Revolution ( E-I-R )
 
 The directiories for most components mentioned in the Press Release on 2022-11-17 are here. The only exception is Missile8964 and by extension OCA on Cameras and Automobile. They are hardware oriented and complex on their own, but please note they are also part of E-I-R.
 
