@@ -10,7 +10,7 @@ Please make sure you can accept the Soliloque License before you proceed. The So
 Again, do not participate as a group that defines any stance, social, educational, religious, political or environmental. Contributions from any identifiable group will be confiscated with a publicly listed thank you note and, as a group and as an indivisual, banned from future participation
 
 Everyone, start your upload engine of your original creations, and please leave a name or handle for humanity to honour you.
-Or if you prefer, leave your contact info so contract and gloriously paying work/contracts can find you.
+Or if you prefer, leave your contact info so contract and gloriously paying work/contracts can find you. This platform is for you to shine, in whichever way you prefer.
 
 - James C. Lin, 2022-12-01
 
