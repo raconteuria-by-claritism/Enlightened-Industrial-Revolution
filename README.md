@@ -7,9 +7,12 @@ The world thank you for your generosity with your amazing talents and love you f
 
 Please make sure you can accept the Soliloque License before you proceed. The Soliloque License is an ongoing work to protect everthing here to ensure the 3 goals of Claritism is achieved. Your participation is an automatic acceptance of the terms defined within the Soliloque License, which is currently at 2022-11-17 version. 
 
-Again, do not participate as a group that defines any stance, social, educational, religious, political or environmental. Contributions from any identifiable group will be confiscated with a publicly listed thank you note and, as a group and as an indivisual, banned from future participation.
+Again, do not participate as a group that defines any stance, social, educational, religious, political or environmental. Contributions from any identifiable group will be confiscated with a publicly listed thank you note and, as a group and as an indivisual, banned from future participation
 
-- James C. Lin 2022-12-01
+Everyone, start your upload engine of your original creations, and please leave a name or handle for humanity to honour you.
+Or if you prefer, leave your contact info so contract and gloriously paying work/contracts can find you.
+
+- James C. Lin, 2022-12-01
 
 ---
 
