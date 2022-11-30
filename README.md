@@ -1,6 +1,15 @@
 # Enlightened-Industrial-Revolution
 
-The directiories for most components mentioned in the Press Release on 2022-11-17 are here. The only exception is Missile8964 and by extension OCA on Cameras and Automobile. They are hardware oriented and complex on their own.
+The directiories for most components mentioned in the Press Release on 2022-11-17 are here. The only exception is Missile8964 and by extension OCA on Cameras and Automobile. They are hardware oriented and complex on their own, but please note they are also part of E-I-R.
+
+For Each Design, Please leave a note of contributors and dates and the "addendas", just like a chronological release note of softwares.
+The world thank you for your generosity with your amazing talents and love you for it.
+
+Please make sure you can accept the Soliloque License before you proceed. The Soliloque License is an ongoing work to protect everthing here to ensure the 3 goals of Claritism is achieved. Your participation is an automatic acceptance of the terms defined within the Soliloque License, which is currently at 2022-11-17 version. 
+
+Again, do not participate as a group that defines any stance, social, educational, religious, political or environmental. Contributions from any identifiable group will be confiscated with a publicly listed thank you note and, as a group and as an indivisual, banned from future participation.
+
+- James C. Lin 2022-12-01
 
 ---
 
@@ -54,11 +63,4 @@ Storage Strucgure
   - They will easily fit into a "Saga-Egg", the Universal Garanteed Habitate.
   
 ---
-
-For Each Design, Please leave a note of contributors and dates and the "addendas", just like a chronological release note of softwares.
-The world thank you for your generosity with your amazing talents and love you for it.
-
-PS. Please make sure you can accept the Soliloque License before you proceed. The Soliloque License is an ongoing work to protect everthing here to ensure the 3 goals of Claritism is achieved. Your participation is an automatic acceptance of the terms defined within the Soliloque License, which is currently at 2022-11-17 version.
-
-- James C. Lin 2022-12-01
   
