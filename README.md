@@ -4,7 +4,7 @@ The directiories for most components mentioned in the Press Release on 2022-11-1
 
 ---
 
-Corrugated Carton - 2mm thickness for the material
+Corrugated Carton - 2mm thickness for the material, any occassion that needs more thickness : Russian Doll design insert will be provided.
   
   furnnitures
   - Designes with multiple slices needs to have a standardized reference number and qrcode.
